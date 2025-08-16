@@ -1,4 +1,4 @@
-Central Tendency for Housing Data
+**Central Tendency for Housing Data**
 
 In this project, you will find the mean, median, and mode cost of one-bedroom apartments in three of the five New York City boroughs: Brooklyn, Manhattan, and Queens.
 
